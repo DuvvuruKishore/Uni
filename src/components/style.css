@@ -1,0 +1,16 @@
+.sidereducer{
+    margin-left: 350px;
+    margin-right: 350px;
+
+}
+.header{
+    font-size: larger;
+    font-weight: 500;
+}
+.side{
+    display: flex;
+    justify-content: space-between;
+}
+.back{
+    background-color: pink;
+}
